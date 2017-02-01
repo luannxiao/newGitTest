@@ -60,7 +60,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Stage</Value>
+                    <Value>picked to Stage</Value>
                     <Style />
                   </TextRun>
                 </TextRuns>
@@ -69,7 +69,7 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>change</Value>
+                    <Value />
                     <Style />
                   </TextRun>
                 </TextRuns>
