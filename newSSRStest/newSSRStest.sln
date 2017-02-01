@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "newSSRStest", "newSSRStest\newSSRStest.rptproj", "{75F2C84D-6050-4BA2-A68D-95189755ADF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F2C84D-6050-4BA2-A68D-95189755ADF9}.Debug|Default.ActiveCfg = Debug
+		{75F2C84D-6050-4BA2-A68D-95189755ADF9}.Debug|Default.Build.0 = Debug
+		{75F2C84D-6050-4BA2-A68D-95189755ADF9}.Debug|Default.Deploy.0 = Debug
+		{75F2C84D-6050-4BA2-A68D-95189755ADF9}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{75F2C84D-6050-4BA2-A68D-95189755ADF9}.DebugLocal|Default.Build.0 = DebugLocal
+		{75F2C84D-6050-4BA2-A68D-95189755ADF9}.Release|Default.ActiveCfg = Release
+		{75F2C84D-6050-4BA2-A68D-95189755ADF9}.Release|Default.Build.0 = Release
+		{75F2C84D-6050-4BA2-A68D-95189755ADF9}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
